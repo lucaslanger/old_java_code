@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=xg\ yg\ s
+comment0.target=Missile(int,\ int,\ java.lang.String)
+comment1.params=xg\ yg\ s\ iii\ bx\ by
+comment1.target=Missile(int,\ int,\ java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ accelerate()
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=
+comment5.target=int\ getHeight()
+comment6.params=
+comment6.target=int\ getWidth()
+comment7.params=
+comment7.target=java.awt.Image\ getImage()
+comment8.params=
+comment8.target=int\ getDirection()
+numComments=9

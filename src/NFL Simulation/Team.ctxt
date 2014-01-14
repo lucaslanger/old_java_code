@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Team(java.lang.String)
+comment1.params=
+comment1.target=int\ scoregenerator()
+comment1.text=public\ int\ scoregenerator(){//creates\ a\ random\ score\ for\ the\ team,\ and\ sends\ it\ back\r\n\ \ \ \ \ return\ position;\r\n}
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=void\ wins()
+comment4.params=
+comment4.target=void\ losses()
+comment5.params=
+comment5.target=void\ ties()
+comment6.params=
+comment6.target=int\ displaywins()
+comment7.params=s
+comment7.target=void\ pointsfor(int)
+comment8.params=
+comment8.target=int\ displaypf()
+comment9.params=a
+comment9.target=int\ playoffscoregenerator(int)
+numComments=11

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=boosttype\ screenwidth\ screenheight
+comment0.target=Boost(int,\ int,\ int)
+comment1.target=void\ setLocation()
+comment2.target=void\ decreaseTimeVisible()
+comment3.target=int\ getTime()
+comment4.target=int\ getBoostType()
+comment5.target=Image\ getImage()
+comment6.target=int\ getX()
+comment7.target=int\ getY()
+comment8.target=int\ getWidth()
+comment9.target=int\ getHeight()
+numComments=10

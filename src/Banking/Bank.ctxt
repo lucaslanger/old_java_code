@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=Bank(int)
+comment1.params=lol
+comment1.target=void\ addAcct(Account)
+comment2.params=
+comment2.target=void\ calcInterestAll()
+comment3.params=
+comment3.target=double\ totalBalance()
+comment4.params=
+comment4.target=java.lang.String\ history()
+numComments=5

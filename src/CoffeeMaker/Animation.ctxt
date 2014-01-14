@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Animation()
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=a
+comment2.target=void\ doAnimation(int)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ coffeetaken()
+numComments=5

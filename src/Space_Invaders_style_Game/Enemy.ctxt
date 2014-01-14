@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=ens\ f\ movements
+comment0.target=Enemy(String,\ int,\ int)
+comment1.target=void\ placeEnemy()
+comment10.params=imgname
+comment10.target=void\ setImage(String)
+comment11.target=void\ setStationary()
+comment12.target=boolean\ checkDead()
+comment2.target=void\ move()
+comment3.target=int\ getXLocation()
+comment4.target=int\ getYLocation()
+comment5.target=Image\ getImage()
+comment6.target=int\ getHeight()
+comment7.target=int\ getWidth()
+comment8.target=void\ addDeadTime()
+comment9.target=int\ getDeadTime()
+numComments=13
